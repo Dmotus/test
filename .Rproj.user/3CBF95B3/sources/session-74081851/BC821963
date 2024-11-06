@@ -3,7 +3,7 @@
     "path": "D:/TestDeployment/Dockerfile",
     "project_path": "Dockerfile",
     "type": "dockerfile",
-    "hash": "2923154495",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1730895961331.0,
@@ -16,11 +16,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730897482,
+    "lastKnownWriteTime": 1730897701,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730897482755,
+    "last_content_update": 1730897701115,
     "read_only": false,
     "read_only_alternatives": []
 }
