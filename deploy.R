@@ -9,8 +9,7 @@ setAccountInfo(
 )
 
 # Deploy
-deployApp(appDir   = 'app/',
-          appFiles = c('app/app.R','app/server.R','app/ui.R'),
+deployApp(appFiles = c("ui.R", "server.R"),
           appName  = 'first',
           appTitle = 'hello'
 )
