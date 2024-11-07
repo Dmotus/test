@@ -10,6 +10,7 @@ setAccountInfo(
 
 # Deploy
 deployApp(appDir   = 'app/',
+          appFiles = c('app/app.R','app/server.R','app/ui.R'),
           appName  = 'first',
           appTitle = 'hello'
 )
