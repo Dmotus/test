@@ -3,7 +3,7 @@
     "path": "D:/TestDeployment/Dockerfile",
     "project_path": "Dockerfile",
     "type": "dockerfile",
-    "hash": "0",
+    "hash": "2330963565",
     "contents": "",
     "dirty": false,
     "created": 1730895961331.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "12,0",
+        "cursorPosition": "13,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1730968041,
+    "lastKnownWriteTime": 1730968740,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1730968041521,
+    "last_content_update": 1730968740865,
     "read_only": false,
     "read_only_alternatives": []
 }
