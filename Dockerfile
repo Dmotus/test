@@ -4,10 +4,11 @@ RUN install2.r rsconnect
 
 # Set working directory
 WORKDIR /home/shinyapp
-
-COPY app/ app/
-COPY R/deploy.R R/deploy.R
+COPY ui.R .
+COPY server.R . 
+COPY app.R .
+COPY deploy.R .
 
 # Run the deployment script
-CMD ["Rscript", "R/deploy.R"]
+CMD ["Rscript", "deploy.R"]
 
