@@ -3,7 +3,7 @@
     "path": "D:/TestDeployment/.github/workflows/deploy.yml",
     "project_path": ".github/workflows/deploy.yml",
     "type": "yaml",
-    "hash": "2128052971",
+    "hash": "0",
     "contents": "",
     "dirty": true,
     "created": 1730896182427.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "20,61",
+        "cursorPosition": "16,22",
         "scrollLine": "0"
     },
     "folds": "",
