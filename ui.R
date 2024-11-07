@@ -1,13 +1,14 @@
 # ui.R
-
 # Load the shiny package
 library(shiny)
+
 
 # Define the UI
 ui <- fluidPage(
   # Title
   titlePanel("Simple Shiny App"),
-  
+
+    
   # Sidebar layout
   sidebarLayout(
     sidebarPanel(
