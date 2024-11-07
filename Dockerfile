@@ -1,4 +1,4 @@
-FROM rocker/shiny:latest
+FROM rocker/shiny:4.2.3
 # Install necessary R packages
 RUN install2.r rsconnect
 
